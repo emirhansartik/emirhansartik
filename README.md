@@ -26,9 +26,9 @@ Kırklareli'de Bilgisayar Programcılığı öğrencisiyim ve sektörde aktif ol
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhansartik&show_icons=true&theme=dark" alt="emirhansartik's GitHub stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirhansartik&theme=dark" alt="emirhansartik's GitHub streak" width="45%" />
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emirhansartik&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhansartik&theme=dark" alt="GitHub Streak" />
+</div>
 
 > "Her gün kendini geliştir, geleceğini kendi ellerinle kodla."
