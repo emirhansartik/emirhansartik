@@ -48,7 +48,7 @@ Kırklareli'de Bilgisayar Programcılığı öğrencisiyim ve sektörde ticari p
 
 <p align="center">
   <a href="https://github.com/emirhansartik">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=emirhansartik&show_icons=true&theme=dark&count_private=true&v=2" alt="Emirhan's Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=emirhansartik&show_icons=true&theme=dark&count_private=true&v=2" alt=""/>
   </a>
   <a href="https://github.com/emirhansartik">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhansartik&theme=dark" alt="Emirhan's Streak" />
